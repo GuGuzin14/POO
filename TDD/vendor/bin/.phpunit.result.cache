@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\CalculadoraTest::test_soma":8,"tests\\CalculadoraTest::test_if_operacoes_is_empty":8},"times":{"tests\\CalculadoraTest::test_soma":0.004,"tests\\CalculadoraTest::test_if_operacoes_is_empty":0}}

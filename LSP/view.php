@@ -12,5 +12,5 @@ function realizarSaque(Conta $conta, $valor){
 $contaCorrente = new ContaCorrente(1000);
 realizarSaque($contaCorrente,200);
 
-$contaPoupanca = new ContaPoupanca(500);
+$contaPoupanca = new ContaPoupanca(750);
 realizarSaque($contaPoupanca, 100);
